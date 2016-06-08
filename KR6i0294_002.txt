@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:14
+#+DATE: 2016-06-08 9:15
 #+TITLE: 菩薩瓔珞經
 #+PROPERTY: CBETA_ID T16n0656
 #+PROPERTY: ID KR6i0294
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 656
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0294_T_002-0009a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
@@ -195,7 +195,7 @@
 　無相願亦然。¶
 　夫欲飲無厭，
 　甘露微妙味，¶
-　亡相除諸著，
+　忘想除諸著，
 　斯應菩薩慧。¶
 　無人無壽命，
 　成就諸佛藏，

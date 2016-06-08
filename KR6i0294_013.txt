@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:14
+#+DATE: 2016-06-08 9:15
 #+TITLE: 菩薩瓔珞經
 #+PROPERTY: CBETA_ID T16n0656
 #+PROPERTY: ID KR6i0294
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 656
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0294_T_013-0108c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 13
 ¶
@@ -946,7 +946,7 @@
 脫者，欲使眾生一時成佛者，如是，天子！此¶
 菩薩摩訶薩當習此賢聖辯才，受持諷誦為¶
 人解說，雖不能多，初夜可；雖不能初夜，一時¶
-間可；雖不能一時，彈指頃可。何以故？三世¶
+閒可；雖不能一時，彈指頃可。何以故？三世¶
 諸佛一切諸道皆從此生，為世光明，諸困苦¶
 者自然安隱。若有善男子、善女人，身生瘡癩¶
 膿血流溢，彼人聞此賢聖辯才即得除差。若¶
